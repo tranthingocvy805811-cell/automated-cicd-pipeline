@@ -1,4 +1,5 @@
 # Automated CI/CD Pipeline & Application Deployment
+[![CI/CD Pipeline](https://github.com/tranthingocvy805811-cell/automated-cicd-pipeline/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/tranthingocvy805811-cell/automated-cicd-pipeline/actions/workflows/ci-cd.yml)
 
 A complete DevOps automated pipeline project demonstrating CI/CD best practices using **GitHub Actions**, **Docker containerization**, and **Python**.
 
